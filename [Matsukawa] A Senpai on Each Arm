@@ -1,0 +1,25 @@
+{
+   "title":"[Matsukawa] A Senpai on Each Arm",
+   "description":"",
+   "author":"Matsukawa",
+   "artist":"Matsukawa",
+   "cover":"https://i.imgur.com/mJhQxKq.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jsQ1uuQ"
+         },
+         "last_updated":1624606143,
+         "title":"A Senpai on Each Arm -Chapter 1-",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/w6e3cqG"
+         },
+         "last_updated":1624606143,
+         "title":"A Senpai on Each Arm -Chapter 2-",
+         "volume":"2"
+      }
+   }
+}
