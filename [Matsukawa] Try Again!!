@@ -1,0 +1,25 @@
+{
+   "title":"[Matsukawa] Try Again!!",
+   "description":"",
+   "author":"Matsukawa",
+   "artist":"Matsukawa",
+   "cover":"https://i.imgur.com/K7NA9Dn.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/E9FycP3"
+         },
+         "last_updated":1624606143,
+         "title":"Try Again!!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7X9BXpY"
+         },
+         "last_updated":1624606143,
+         "title":"Changing Scenery",
+         "volume":"2"
+      }
+   }
+}
